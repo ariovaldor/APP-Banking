@@ -1,10 +1,17 @@
 
-# Meu projeto Aplicativo Bancário em Python
+# DIO BOOTCAMP: Engenharia de Dados com Python
+#     Desafio de Projeto: Criando um Sistema Bancário com Python
 
 
-O APP exibe menu com opções: Depósito, Saque e Extrato
+Código em Python para simular um Sistema Bancário com opções: Depósito, Saque e Extrato
+Fiz ajustes para clarificar algumas mensagens como a exbição do saldo na mensagem de Saldo Insuficiente
     
     
 
 
-    Testar excesso de saques, saque em valor superior a R$ 500 e tentativa de saque sem saldo em conta.
+    Testes realizados:
+        Saques,
+        Depósitos,
+        Excesso de saques, 
+        Saque em valor superior a R$ 500 e 
+        Tentativa de saque sem saldo em conta.
